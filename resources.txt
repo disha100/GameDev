@@ -1,0 +1,14 @@
+How to draw things?
+
+void DrawRectangle(int posX, int posY, int width, int height, Color color);
+void DrawCircle(int centerX, int centerY, float radius, Color color);
+void DrawLine(int startPosX, int startPosY, int endPosX, int endPosY, Color color);
+void Draw Poly(Vector2 center, int sides, float radius, float rotation, Color color);
+
+
+
+// DrawCircle(int centerX, int centerY, float radius, Color color);
+		//DrawCircle(screen_width / 2, screen_height / 2, 12, WHITE);
+// DrawRectangle(int posX, int posY, int width, int height, Color color);
+		DrawRectangle(10, screen_height / 2 - 60, 25, 120, WHITE);
+

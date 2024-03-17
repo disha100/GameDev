@@ -1,0 +1,16 @@
+﻿  pong_game.cpp
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(33,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(33,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(33,14): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(58,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(59,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(85,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(85,23): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(85,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(85,17): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(167,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(170,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\pong_game.cpp(174,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pong_game.vcxproj -> C:\Users\HP\source\repos\Game_dev\pong_game\x64\Debug\pong_game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

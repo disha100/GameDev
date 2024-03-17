@@ -1,0 +1,2 @@
+C:\Users\HP\source\repos\pong_game\pong_game\x64\Debug\pong_game.vcxproj.Up2Date
+C:\Users\HP\source\repos\Game_dev\pong_game\pong_game\x64\Debug\pong_game.vcxproj.Up2Date
